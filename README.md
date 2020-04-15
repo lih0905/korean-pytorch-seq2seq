@@ -1,4 +1,4 @@
-# PyTorch와 TorchText를 이용한 한국어 seq-to-seq 연습
+# PyTorch와 TorchText를 이용한 한국어 seq2seq 연습
 
 Ben Trevett(@bentrevett)의 [seq2seq tutorial](https://github.com/bentrevett/pytorch-seq2seq)을 토대로 한국어 데이터셋(AI Hub 번역 데이터셋)을 이용한 seq2seq 연습 레포입니다.
 
